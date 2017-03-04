@@ -2,9 +2,13 @@
   "name": "wlxmblog.github.io",
   "version": "1.0.0",
   "description": "it my first blog, welcome!",
-  "main": "main.js",
+  "main": "server.js",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "scripts": {
-    "serve": "node my-koa-app.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
