@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wlxmblog/wlxmblog.github.io/issues"
   },
-  "homepage": "https://github.com/wlxmblog/wlxmblog.github.io#readme"
+  "homepage": "https://github.com/wlxmblog/wlxmblog.github.io#readme",
+  "devDependencies": {
+    "koa": "^2.0.1"
+  }
 }
