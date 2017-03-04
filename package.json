@@ -1,0 +1,22 @@
+{
+  "name": "wlxmblog.github.io",
+  "version": "1.0.0",
+  "description": "it my first blog, welcome!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlxmblog/wlxmblog.github.io.git"
+  },
+  "keywords": [
+    "wlxmblog"
+  ],
+  "author": "wlxm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlxmblog/wlxmblog.github.io/issues"
+  },
+  "homepage": "https://github.com/wlxmblog/wlxmblog.github.io#readme"
+}
